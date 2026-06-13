@@ -1,7 +1,7 @@
 # [hangar-publish-plugin](https://plugins.gradle.org/plugin/io.papermc.hangar-publish-plugin)
 
-Gradle plugin for publishing to [Hangar](https://hangar.papermc.io/).
-
+Maven plugin for publishing to [Hangar](https://hangar.papermc.io/).
+[[FORKED FROM HangarMC/hangar-publish-plugin]]
 ## Basic Usage
 
 To use hangar-publish-plugin, simply apply the plugin and configure publications.
